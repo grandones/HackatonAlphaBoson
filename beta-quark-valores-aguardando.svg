@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="171px" viewBox="0 0 320 171" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>beta-quark-valores-aguardando</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Protótipo---processo-seletivo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-saldos" transform="translate(0.000000, -255.000000)">
+            <g id="beta-quark-valores-aguardando" transform="translate(0.000000, 255.000000)">
+                <rect id="Rectangle-Copy" fill="#FFCB05" x="0" y="0" width="320" height="170.666667"></rect>
+                <g id="Group-2" stroke-width="1" transform="translate(32.000000, 34.000000)" fill="#EDF7F9">
+                    <text id="Valor-aguardando-lib" font-family="Roboto-Medium, Roboto" font-size="16" font-weight="400">
+                        <tspan x="0" y="15">Valor aguardando liberação:</tspan>
+                    </text>
+                    <text id="R$-1000,00" font-family="Roboto-Light, Roboto" font-size="50" font-weight="300">
+                        <tspan x="0" y="91">R$ </tspan>
+                        <tspan x="71.6064453" y="91" font-family="Roboto-Bold, Roboto" font-weight="bold">1000,00</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

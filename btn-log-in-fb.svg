@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="270px" height="50px" viewBox="0 0 270 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>btn-log-in-fb</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Protótipo---processo-seletivo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tela-login" transform="translate(-25.000000, -447.000000)">
+            <g id="btn-log-in-fb" transform="translate(25.000000, 447.000000)">
+                <rect id="Bg" fill="#EDF7F9" fill-rule="evenodd" x="0" y="0" width="270" height="50" rx="5"></rect>
+                <text id="Log-in-with-Faceboo" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="16" font-weight="300" fill="#09B6E4">
+                    <tspan x="88" y="30">Log in with Facebook</tspan>
+                </text>
+                <path d="M31,19.7669884 L33.93,19.7669884 L33.93,17.1038559 C33.93,15.9288987 33.9616667,14.1181557 34.875,12.9961806 C35.835,11.8071987 37.155,11 39.4233333,11 C43.12,11 44.6766667,11.4924224 44.6766667,11.4924224 L43.945,15.5533487 C43.945,15.5533487 42.7233333,15.2214311 41.5833333,15.2214311 C40.445,15.2214311 39.4233333,15.6047726 39.4233333,16.6690906 L39.4233333,19.7669884 L44.0966667,19.7669884 L43.7716667,23.7328585 L39.4233333,23.7328585 L39.4233333,37.5082188 L33.93,37.5082188 L33.93,23.7328585 L31,23.7328585 L31,19.7669884" id="Imported-Layers" fill="#09B6E4" fill-rule="evenodd"></path>
+            </g>
+        </g>
+    </g>
+</svg>
